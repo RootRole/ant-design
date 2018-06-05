@@ -21,7 +21,7 @@ Layout.Sider supports responsive layout.
 import { Layout, Menu, Icon } from 'antd';
 const { Header, Content, Footer, Sider } = Layout;
 
-ReactDOM.render(
+ReactDOM.render(  
   <Layout>
     <Sider
       breakpoint="lg"
